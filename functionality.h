@@ -1,11 +1,4 @@
-//i22-0890 Hassaan Anwar Project
 
-/* PROGRAMMING FUNDAMENTAL'S PROJECT FOR FALL 2022 BS(CS)
- * You need to define the required function in the part instructed here below.
- * Avoid making any unnecessary changes, particularly the ones you don't understand.
- * The different pieces should be defined using an array - uncomment the following code once you are done creating the array.
- * TIP: Understand thoroughly before getting started with coding.
- * */
 
  //---Piece Starts to Fall When Game Starts---//
 #include<fstream>
